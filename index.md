@@ -8,6 +8,7 @@ interest include **Machine Learning**, **Reinforcement Learning**, **Transfer Le
 
 representation and knowledge representation based on reinforcement learning methodology.
 
+
 **Education Background:**
 
 **Ph.D:** Spring 2018 ~ Now
@@ -22,6 +23,7 @@ representation and knowledge representation based on reinforcement learning meth
 
    Electronic Science and Technology Department, Haerbin Univerisity of Science and Technology, Heilong Jiang, China
       
+
 **Industry Experience:** 
 
 2012.7 ~ 2014.3 : 

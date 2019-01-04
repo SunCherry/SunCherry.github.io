@@ -4,7 +4,7 @@
 [**Publication**]()               
 [**My Github**](https://github.com/SunCherry)
 
- ![GitHub Logo](/Users/cherrysun/Desktop/me.png)
+ ![GitHub Logo](/Desktop/me.png)
 
 I am a Ph.D student in Computer Science and Engineering Department at University of South Carolina. My research fields of 
 

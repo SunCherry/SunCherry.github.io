@@ -25,15 +25,11 @@ I am a Ph.D student in Computer Science and Engineering Department at University
 
 - **Industrial Experience:** 
 
-    2012.7 ~ 2014.3 : 
-  
-     Huahong Intergrated Circuits Design Co., Ltd. Shanghai, China
+    2012.7 ~ 2014.3 : Huahong Intergrated Circuits Design Co., Ltd. Shanghai, China
    
      Work Description: IC design
    
-    2014.3 ~ 2016.10 :
-
-     Huawei Technologies Co. Ltd;  Shanghai, China
+    2014.3 ~ 2016.10 : Huawei Technologies Co. Ltd;  Shanghai, China
   
      Work Description: IC design
  

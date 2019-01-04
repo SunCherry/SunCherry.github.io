@@ -42,7 +42,10 @@ I am a Ph.D student in Computer Science and Engineering Department at University
 
 - **Contact Information:** 
 
-    Email: syuxiang@email.sc.edu                           Phone: +1(803)-319-7942
+    Email: syuxiang@email.sc.edu                           
+    
+    Phone: +1(803)-319-7942
+    
     Lab: Room 2212, 550 Assembly Street, Columbia, SC
 
     As for my projects experience, please refer to [My Github](https://github.com/SunCherry).

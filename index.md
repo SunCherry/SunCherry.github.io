@@ -1,5 +1,4 @@
 # Yuxiang Sun
-![GitHub Logo](https://github.com/SunCherry/SunCherry.github.io/blob/master/me-small.png)I am a Ph.D student in Computer Science and Engineering Department at University of South Carolina. My research fields of interest include **Machine Learning**, **Reinforcement Learning**, **Transfer Learning**, and I am currently working on policy representation and knowledge representation based on reinforcement learning methodology.
 
 [**Curriculum Viate**]()   
 

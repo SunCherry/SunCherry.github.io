@@ -12,7 +12,8 @@ interest include **Machine Learning**, **Reinforcement Learning**, **Transfer Le
 representation and knowledge representation based on reinforcement learning methodology.
 
 **Education Background:**
-Ph.D: Spring 2018 ~ Now
+
+◊ Ph.D: Spring 2018 ~ Now
 
    Computer Science and Engineering Department, University of South Carolina, SC, USA
       

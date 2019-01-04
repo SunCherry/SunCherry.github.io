@@ -30,18 +30,18 @@ representation and knowledge representation based on reinforcement learning meth
   
    Huahong Intergrated Circuits Design Co., Ltd. Shanghai, China
 
-   Work Description: IC designer
+   Work Description: IC design
    
 2014.3 ~ 2016.10 :
 
   Huawei Technologies Co. Ltd;  Shanghai, China
   
-  Work Description: IC designer
+  Work Description: IC design
 
 
 **Personal Information:**
 
-Email: syuxiang@email.sc.edu   Phone: +1(803)-319-7942
+Email: syuxiang@email.sc.edu                           Phone: +1(803)-319-7942
 
 Lab: Room 2212, 550 Assembly Street, Columbia, SC
 

@@ -1,6 +1,8 @@
 ## Yuxiang Sun
 
-[**CV**]()             [**Publication**]()               [**My Github**](https://github.com/SunCherry)
+[**CV**]()             
+[**Publication**]()               
+[**My Github**](https://github.com/SunCherry)
 
  ![GitHub Logo](/Users/cherrysun/Desktop/me.jpeg)
 

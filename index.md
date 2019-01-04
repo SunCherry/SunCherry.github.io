@@ -10,44 +10,44 @@ I am a Ph.D student in Computer Science and Engineering Department at University
 
 - **Education Background**
 
-**Ph.D:** Spring 2018 ~ Now
+  **Ph.D:** Spring 2018 ~ Now
   
-  Computer Science and Engineering Department, University of South Carolina, SC, USA
+     Computer Science and Engineering Department, University of South Carolina, SC, USA
       
-**Master Degree:** 2010.9 ~ 2012.7
+  **Master Degree:** 2010.9 ~ 2012.7
   
-  Micro-electronics Department, Fudan University, Shanghai, China
+     Micro-electronics Department, Fudan University, Shanghai, China
       
-**Bachelor Degree:** 2005.9 ~ 2009.7
+  **Bachelor Degree:** 2005.9 ~ 2009.7
   
-  Electronic Science and Technology Department, Haerbin Univerisity of Science and Technology, Heilong Jiang, China
+     Electronic Science and Technology Department, Haerbin Univerisity of Science and Technology, Heilong Jiang, China
       
 
 - **Industrial Experience** 
 
-2012.7 ~ 2014.3 : 
+    2012.7 ~ 2014.3 : 
   
-   Huahong Intergrated Circuits Design Co., Ltd. Shanghai, China
+     Huahong Intergrated Circuits Design Co., Ltd. Shanghai, China
    
-   Work Description: IC design
+     Work Description: IC design
    
-2014.3 ~ 2016.10 :
+    2014.3 ~ 2016.10 :
 
-  Huawei Technologies Co. Ltd;  Shanghai, China
+     Huawei Technologies Co. Ltd;  Shanghai, China
   
-  Work Description: IC design
+     Work Description: IC design
  
 
 - **Teaching Experience**
 
-Spring 2018: TA: CSCE212(Introduction to Computer Architecture), CSCE211(Digital Logic Design), CSCE240(Software Engineering)
+    Spring 2018: TA: CSCE212(Introduction to Computer Architecture), CSCE211(Digital Logic Design), CSCE240(Software      Engineering)
 
-Fall 2018: TA: CSCE240
+    Fall 2018: TA: CSCE240
 
 - **Personal Information** 
 
-Email: syuxiang@email.sc.edu                           Phone: +1(803)-319-7942
-Lab: Room 2212, 550 Assembly Street, Columbia, SC
+    Email: syuxiang@email.sc.edu                           Phone: +1(803)-319-7942
+    Lab: Room 2212, 550 Assembly Street, Columbia, SC
 
-As for my projects experience, please refer to [My Github](https://github.com/SunCherry).
+    As for my projects experience, please refer to [My Github](https://github.com/SunCherry).
 

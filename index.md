@@ -1,6 +1,8 @@
 # Yuxiang Sun
 
-- [**My CV**]()
+- [**My CV**]() 
+
+- [**My Publications**]()
 
 -------- [**My CV**]() -------- [**My Publications**]() --------                        
 

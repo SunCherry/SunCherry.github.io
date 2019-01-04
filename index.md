@@ -8,7 +8,7 @@
 I am a Ph.D student in Computer Science and Engineering Department at University of South Carolina. My research fields of interest include **Machine Learning**, **Reinforcement Learning**, **Transfer Learning**, and I am currently working on policy representation and knowledge representation based on reinforcement learning methodology.
 
 
-- **Education Background**
+- **Education Background:**
 
     **Ph.D:** Spring 2018 ~ Now
   
@@ -23,7 +23,7 @@ I am a Ph.D student in Computer Science and Engineering Department at University
      Electronic Science and Technology Department, Haerbin Univerisity of Science and Technology, Heilong Jiang, China
       
 
-- **Industrial Experience** 
+- **Industrial Experience:** 
 
     2012.7 ~ 2014.3 : 
   
@@ -38,13 +38,13 @@ I am a Ph.D student in Computer Science and Engineering Department at University
      Work Description: IC design
  
 
-- **Teaching Experience**
+- **Teaching Experience:**
 
     Spring 2018: TA: CSCE212(Introduction to Computer Architecture), CSCE211(Digital Logic Design), CSCE240(Software      Engineering)
 
     Fall 2018: TA: CSCE240
 
-- **Personal Information** 
+- **Contact Information:** 
 
     Email: syuxiang@email.sc.edu                           Phone: +1(803)-319-7942
     Lab: Room 2212, 550 Assembly Street, Columbia, SC

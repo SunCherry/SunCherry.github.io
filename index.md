@@ -48,5 +48,5 @@ I am a Ph.D student in Computer Science and Engineering Department at University
     
     Lab: Room 2212, 550 Assembly Street, Columbia, SC
 
-    As for my projects experience, please refer to [My Github](https://github.com/SunCherry).
+    As for my projects information, please refer to [My Github](https://github.com/SunCherry).
 

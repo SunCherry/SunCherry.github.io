@@ -4,7 +4,6 @@
 
 [**Publication:**]()                        
 
-
 I am a Ph.D student in Computer Science and Engineering Department at University of South Carolina. My research fields of interest include **Machine Learning**, **Reinforcement Learning**, **Transfer Learning**, and I am currently working on policy representation and knowledge representation based on reinforcement learning methodology.
 
 
@@ -25,13 +24,13 @@ I am a Ph.D student in Computer Science and Engineering Department at University
 
 **Industrial Experience:** 
 
-◊◊ 2012.7 ~ 2014.3 : 
+2012.7 ~ 2014.3 : 
   
    Huahong Intergrated Circuits Design Co., Ltd. Shanghai, China
 
    Work Description: IC design
    
-◊◊ 2014.3 ~ 2016.10 :
+2014.3 ~ 2016.10 :
 
   Huawei Technologies Co. Ltd;  Shanghai, China
   

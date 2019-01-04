@@ -13,15 +13,15 @@ representation and knowledge representation based on reinforcement learning meth
 
 **Education Background:**
 
-◊ Ph.D: Spring 2018 ~ Now
+**Ph.D:** Spring 2018 ~ Now
 
    Computer Science and Engineering Department, University of South Carolina, SC, USA
       
-Master Degree: 2010.9 ~ 2012.7
+**Master Degree:** 2010.9 ~ 2012.7
 
    Micro-electronics Department, Fudan University, Shanghai, China
       
-Bachelor Degree: 2005.9 ~ 2009.7
+**Bachelor Degree:** 2005.9 ~ 2009.7
 
    Electronic Science and Technology Department, Haerbin Univerisity of Science and Technology, Heilong Jiang, China
       

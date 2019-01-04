@@ -37,10 +37,9 @@ I am a Ph.D student in Computer Science and Engineering Department at University
 
 -------- **Teaching Experience** -------- 
 
-Spring 2018:
-TA: CSCE212(Introduction to Computer Architecture), CSCE211(Digital Logic Design), CSCE240(Software Engineering)
-Fall 2018:
-TA: CSCE240
+Spring 2018: TA: CSCE212(Introduction to Computer Architecture), CSCE211(Digital Logic Design), CSCE240(Software Engineering)
+
+Fall 2018: TA: CSCE240
 
 -------- **Personal Information** --------
 

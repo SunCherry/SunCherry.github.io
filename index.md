@@ -1,8 +1,8 @@
 ## Yuxiang Sun
 
-[**CV**]()    [**Publication**]()                        
+[**Curriculum Viate**]()    
+[**Publication**]()                        
 
- ![GitHub Logo](https://github.com/SunCherry/SunCherry.github.io/blob/master/me.jpg)
 
 I am a Ph.D student in Computer Science and Engineering Department at University of South Carolina. My research fields of 
 

@@ -1,4 +1,5 @@
 # Yuxiang Sun
+![GitHub Logo](https://github.com/SunCherry/SunCherry.github.io/blob/master/me-small.png)
 [**Curriculum Viate**]()   
 
 [**Publication:**]()                        

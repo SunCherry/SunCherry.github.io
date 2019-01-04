@@ -1,6 +1,6 @@
 # Yuxiang Sun
 
---------[**My Curriculum Viate**]()--------   
+--------[**Curriculum Viate**]()--------   
 
 ----------[**My Publication**]()----------                        
 

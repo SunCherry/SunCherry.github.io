@@ -6,12 +6,12 @@ interest include **Machine Learning**,**Reinforcement Learning**,**Transfer Lear
 
 representation and knowledge representation based on reinforcement learning methodology.
 
-### Markdown
-cherry is comming
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Personal Information:
+Email: syuxiang@email.sc.edu   Phone: +1(803)-319-7942
 
+Lab: Room 2212, 550 Assembly Street, Columbia, SC
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+As for my projects experience, please refer to [My Github](https://github.com/SunCherry).
 
 ### Jekyll Themes
 

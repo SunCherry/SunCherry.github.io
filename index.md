@@ -1,5 +1,5 @@
 # Yuxiang Sun
-```ruby
+```markdown
 - [**My CV**]() 
 
 - [**My Publications**]()
